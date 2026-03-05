@@ -1,8 +1,10 @@
-const CACHE_NAME = 'elmirador-v1';
+const CACHE_NAME = 'elmirador-v2';
 const ASSETS = [
-  '/elmirador-app/',
-  '/elmirador-app/index.html',
-  '/elmirador-app/manifest.json'
+  '/Contabilidad_comida-rapida/',
+  '/Contabilidad_comida-rapida/index.html',
+  '/Contabilidad_comida-rapida/manifest.json',
+  '/Contabilidad_comida-rapida/icon-192.png',
+  '/Contabilidad_comida-rapida/icon-512.png'
 ];
 
 // Instalar y cachear archivos principales
