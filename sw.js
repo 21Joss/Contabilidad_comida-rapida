@@ -1,10 +1,10 @@
-const CACHE_NAME = 'elmirador-v2';
+const CACHE_NAME = 'elmirador-v3';
 const ASSETS = [
-  '/Contabilidad_comida-rapida/',
-  '/Contabilidad_comida-rapida/index.html',
-  '/Contabilidad_comida-rapida/manifest.json',
-  '/Contabilidad_comida-rapida/icon-192.png',
-  '/Contabilidad_comida-rapida/icon-512.png'
+  './',
+  './index.html',
+  './manifest.json',
+  './icon-192.png',
+  './icon-512.png'
 ];
 
 // Instalar y cachear archivos principales
